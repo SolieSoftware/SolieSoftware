@@ -1,4 +1,4 @@
-# Hi, I'm Solomon 👋
+# Hi, I'm Sol 👋
 
 ## Software Engineer | C++ • Python • TypeScript • AI Systems
 
