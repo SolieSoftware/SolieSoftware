@@ -38,22 +38,10 @@ Building production systems from database engines to agentic AI pipelines.
 - 📊 Built 20+ production Airflow DAGs orchestrating company-wide ETL
 - 🔧 Refactored critical models improving accuracy from 65% to 95%
 
-### 🎓 Education
-
-**MSc Mechanical Engineering** - Durham University (Merit)  
-**BEng Mechanical Engineering** - Durham University (2:1)  
-**A-Levels:** Mathematics (A*) • Physics (A*) • Chemistry (A*)
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomonshortland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sol.shortland@gmail.com)
-
-### 📊 GitHub Stats
-
-![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolieSoftware&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolieSoftware&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
